@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lervez5
-- 👀 I’m interested in ...studing python 
+- 👀 I’m interested in ...studing software development
 - 🌱 I’m currently learning ... information technology 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...its through my email enockbosire756@gmail.com
