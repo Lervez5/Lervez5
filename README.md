@@ -71,5 +71,3 @@ at the same time a tech enthusiast</p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lervez5&show_icons=true&locale=en" alt="lervez5" /></p>
 
 <p><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=lervez5&" alt="lervez5" /></p>
-
-<img align="right" height="150" src="https://github.com/rudrabarad/Gifs" />
