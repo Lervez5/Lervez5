@@ -50,7 +50,6 @@ at the same time a tech enthusiast</p>
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
 </div>
 
-###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lervez5&label=Profile%20views&color=0e75b6&style=flat" alt="lervez5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lervez5" alt="lervez5" /></a> </p>
@@ -72,4 +71,5 @@ at the same time a tech enthusiast</p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lervez5&show_icons=true&locale=en" alt="lervez5" /></p>
 
 <p><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=lervez5&" alt="lervez5" /></p>
-https://github.com/rudrabarad/Gifs
+
+<img align="right" height="150" src="https://github.com/rudrabarad/Gifs" />
