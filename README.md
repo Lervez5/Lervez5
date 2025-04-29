@@ -40,3 +40,4 @@ at the same time a tech enthusiast</p>
 <p>&nbsp;<img align="Right" src="https://github-readme-stats.vercel.app/api?username=lervez5&show_icons=true&locale=en" alt="lervez5" /></p>
 <p><img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lervez5&show_icons=true&locale=en&layout=compact" alt="lervez5" /></p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=295&size=12&pause=1000&color=E9DDF773&width=435&lines=You+know+the+idea%2C+I+know+the+craft...+Let's+bring+it+to+life." alt="Typing SVG" /></a>
