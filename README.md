@@ -2,49 +2,41 @@
 
 <p align="left">I'am an Information Technology student With great interest on full stack web development and software engineering.
 at the same time a tech enthusiast</p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=5002&pause=1000&width=435&lines=Tech+is+my+language.;Code+powers+my+world.;Dream%2C+code%2C+test%2C+deploy" alt="Typing SVG" /></a>
-<h2 align="left">About me</h2>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=5002&pause=1000&width=435&lines=Hey,+I'm+Enock+Bosire.;Full-stack+dev+in+progress...;Fuelled+by+coffee+%26+curiosity.;Building+cool+stuff+one+line+at+a+time." alt="Typing SVG" />
+</a>
 
-<p align="left">📚 I'm currently Studing...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-<h3 align="left">i have a little understanding on</h3>
-
-<h2 align="left"></h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lervez5" alt="lervez5" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/lervez5" target="blank"><img src="https://img.shields.io/twitter/follow/lervez5?logo=twitter&style=for-the-badge" alt="lervez5" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lervez5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lervez5" height="30" width="40" /></a>
-<a href="https://fb.com/enock tevez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enock tevez" height="30" width="40" /></a>
-<a href="https://instagram.com/lervez5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lervez5" height="30" width="40" /></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=dark)](https://www.instagram.com/lervez5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=dark)](https://www.linkedin.com/in/enock-nyandigisi-9a351735b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=dark)](https://github.com/lervez5)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"></a> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
+</p>
+
+<h3 align="center">GitHub Activity Graph</h3>
+<hr>
+<h3 align="left">📈 GitHub Activity Graph</h3>
+
+
+[![lervez5 GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lervez5&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
+
+
+
+<h3 align="left">GitHub streak</h3><hr>
+<p><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=lervez5&" alt="lervez5" /></p><br>
+<h3 align="center">GitHub stats</h3><hr>
 
 <p>&nbsp;<img align="Right" src="https://github-readme-stats.vercel.app/api?username=lervez5&show_icons=true&locale=en" alt="lervez5" /></p>
 <p><img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lervez5&show_icons=true&locale=en&layout=compact" alt="lervez5" /></p>
-<p><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=lervez5&" alt="lervez5" /></p>
 
