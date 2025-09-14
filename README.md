@@ -130,7 +130,7 @@
 ## 🧨 **FINAL TRANSMISSION**
 > _"Some code runs, some code burns — either way, I ship it."_  
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF3131&width=700&lines=No+Sleep+Club+%7C+Lab+Never+Closes;Push+Dirty+Code+%7C+Pray+For+Prod;Chaos+Engineer+%7C+Frontend+Firestarter;Bugs+Fear+Me+%7C+Commits+Own+Me" />
 </p>
 
