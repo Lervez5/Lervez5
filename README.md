@@ -1,3 +1,4 @@
+
 <h1 align="left">🧪Lervez_5🐬</h1>
 
 > **"Chaos is the compiler… I am the runtime."**  
@@ -102,7 +103,7 @@
 <h3 align="left">GitHub streak</h3>
 <hr>
 <p>
-  <img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=lervez5&theme=GitHub Dark Colorblind" alt="lervez5" />
+  <img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=lervez5&theme=gitHub" alt="lervez5" />
 </p>
 <br>
 <a href="https://git.io/typing-svg">
