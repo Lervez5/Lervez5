@@ -1,17 +1,16 @@
 <h1 align="left">🧪Lervez_5🐬</h1>
 
-> **"I am not in danger... I *AM THE LAB."**  
+> **"Chaos is the compiler… I am the runtime."**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="chaotic hacker gif" />
+  <img src="https://media.giphy.com/media/26Fxy7AmwZRJ5bLTE/giphy.gif" alt="coding and cloud animation" width="400" />
 </p>
 
-## 💀 **LAB MANIFESTO: CHAOS PROTOCOL v5**
-⚗️ Cooking **React + Node.js + Django stacks** dirtier than your `node_modules` after 47 npm installs.  
-🧪 Brewing **APIs, microservices, and DB schemas** until the logs scream in blood-red `ERROR` before finally whispering `200 OK`.  
-🔥 Deploying in the **Cloud Lab** like a lunatic — Docker 🐳 containers crashing, AWS bills on 🔥, still pushing to prod.  
-🩸 Debugging until the sun comes up — every bug interrogated, every stack trace a crime scene, every fix a confession.  
-💀 Committing code that might work, might break, but will definitely leave a scar on the repo.  
+⚗️ Blending **React + Node.js + Django + FastAPI stacks** until your terminal begs for mercy.  
+🧪 Spinning **APIs, microservices, and ETL flows** until `ERROR` turns crimson and finally sighs `200 OK`.  
+🔥 Deploying in the **Cloud Lab** with zero chill — Docker 🐳 containers crash, AWS bills burn, yet prod survives.  
+🩸 Debugging like a mad scientist — every bug cross-examined, each stack trace a crime scene, every fix a confession or disaster.  
+💀 Committing code that may heal, may break, but always leaves scars on the repo forever.  
 
 <div align="center">
 
@@ -94,43 +93,25 @@
   <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&scale=1.2" />
 </p>
 
-
 <h3 align="center">GitHub Activity Graph</h3>
 <hr>
 <h3 align="left">📈 GitHub Activity Graph</h3>
 
-
 [![lervez5 GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lervez5&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
 
 <h3 align="left">GitHub streak</h3>
 <hr>
 <p>
-  <img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=lervez5&theme=github" alt="lervez5" />
+  <img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=lervez5&theme=GitHub Dark Colorblind" alt="lervez5" />
 </p>
 <br>
-
-<h3 align="center">GitHub stats</h3>
-<hr>
-<p>
-  &nbsp;<img align="Right" src="https://github-readme-stats.vercel.app/api?username=lervez5&show_icons=true&locale=en&theme=github" alt="lervez5" />
-</p>
-<p>
-  <img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lervez5&show_icons=true&locale=en&layout=compact&theme=github" alt="lervez5" />
-</p>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=295&size=12&pause=1000&color=E9DDF773&width=435&lines=You+know+the+idea%2C+I+know+the+craft...+Let's+bring+it+to+life." alt="Typing SVG" />
 </a>
 
 ## 🧨 **FINAL TRANSMISSION**
-> _"Some code runs, some code burns — either way, I ship it."_  
+> _"Code sparks, logs roar — in chaos we deploy."_
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF3131&width=700&lines=No+Sleep+Club+%7C+Lab+Never+Closes;Push+Dirty+Code+%7C+Pray+For+Prod;Chaos+Engineer+%7C+Frontend+Firestarter;Bugs+Fear+Me+%7C+Commits+Own+Me" />
 </p>
-
