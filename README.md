@@ -98,12 +98,12 @@
 <hr>
 <h3 align="left">📈 GitHub Activity Graph</h3>
 
-[![lervez5 GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lervez5&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![lervez5 GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lervez5&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">GitHub streak</h3>
 <hr>
 <p>
-  <img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=lervez5&theme=github-dark" alt="lervez5" />
+  <img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=lervez5&theme=github" alt="lervez5" />
 </p>
 <br>
 <a href="https://git.io/typing-svg">
