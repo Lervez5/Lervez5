@@ -98,7 +98,7 @@
 <hr>
 <h3 align="left">📈 GitHub Activity Graph</h3>
 
-[![lervez5 GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lervez5&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![lervez5 GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lervez5&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">GitHub streak</h3>
 <hr>
