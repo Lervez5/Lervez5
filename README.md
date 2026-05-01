@@ -1,115 +1,134 @@
 
-<h1 align="left">🧪Lervez_5🐬</h1>
-
-> **"Chaos is the compiler… I am the runtime."**  
+<h1 align="center">⚡ LERVEZ_5 ⚡</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26Fxy7AmwZRJ5bLTE/giphy.gif" alt="coding and cloud animation" width="400" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full-Stack+Engineer;Backend+Architect;Cloud+Builder;API+Alchemist;Turning+Coffee+Into+Production+Code" alt="Typing SVG" />
 </p>
 
-⚗️ Blending **React + Node.js + Django + FastAPI stacks** until your terminal begs for mercy.  
-🧪 Spinning **APIs, microservices, and ETL flows** until `ERROR` turns crimson and finally sighs `200 OK`.  
-🔥 Deploying in the **Cloud Lab** with zero chill — Docker 🐳 containers crash, AWS bills burn, yet prod survives.  
-🩸 Debugging like a mad scientist — every bug cross-examined, each stack trace a crime scene, every fix a confession or disaster.  
-💀 Committing code that may heal, may break, but always leaves scars on the repo forever.  
+> **"Chaos is the compiler. I am the runtime."**
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    alt="Developer coding animation"
+    width="450"
+  />
+</p>
+---
+
+## 🧪 About Me
+
+⚗️ Blending **React, Node.js, Django, and FastAPI** into systems that scale beautifully.  
+🧬 Engineering **APIs, microservices, and ETL pipelines** that transform complexity into reliability.  
+☁️ Deploying across the cloud with **Docker, Linux, and AWS** where resilience is mandatory.  
+🩸 Hunting bugs like a forensic analyst; every stack trace tells a story.  
+💀 Shipping code that survives production and occasionally terrifies staging.  
+
+---
 
 <div align="center">
 
-<h2>『 HOW TO HIT THE LAB 🔥 』</h2>
+## 『 CONNECT WITH THE LAB 🔥 』
 
-<p align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://www.instagram.com/lervez5" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="45" style="fill:#E4405F;" />
-  </a>
-  <a href="https://www.linkedin.com/in/enock-nyandigisi-9a351735b" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="45" style="fill:#0077B5;" />
-  </a>
-  <a href="https://github.com/lervez5" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="45" style="fill:#181717;" />
-  </a>
-  <a href="https://discord.com/users/yourid" title="Discord">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" height="45" style="fill:#5865F2;" />
-  </a>
-</p>
-
-<p align="center"><i>Reach out… if you survive the chaos.</i></p>
-
-</div>
-
-<div align="center">
-
-<h2>💊 『 LAB-GRADE ARSENAL — CUT WITH 0% BS 』</h2>
-
-<p align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" title="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" height="60" title="Tailwind" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" height="60" title="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" title="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" title="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" title="Anaconda" />
-</p>
-
-<p align="center"><i>Clean builds. Dirty deploys. Chaos guaranteed.</i></p>
-
-</div>
-
-## 💊 Overdosed, Uncut, Raw...
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&scale=1.2" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&scale=1.2" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&scale=1.2" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&scale=1.2" />
-
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&scale=1.2" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&scale=1.2" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&scale=1.2" />
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&scale=1.2" />
-  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&scale=1.2" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&scale=1.2" />
-  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&scale=1.2" />
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&scale=1.2" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&scale=1.2" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&scale=1.2" />
-  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&scale=1.2" />
-
-  <!-- DevOps / Cloud -->
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&scale=1.2" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&scale=1.2" />
-  <img src="https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&scale=1.2" />
-
-  <!-- Misc / Tools -->
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&scale=1.2" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&scale=1.2" />
-  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&scale=1.2" />
-</p>
-
-<h3 align="center">GitHub Activity Graph</h3>
-<hr>
-<h3 align="left">📈 GitHub Activity Graph</h3>
-
-[![lervez5 GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lervez5&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<h3 align="left">GitHub streak</h3>
-<hr>
-<p>
-  <img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=lervez5&theme=github" alt="lervez5" />
-</p>
-<br>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=295&size=12&pause=1000&color=E9DDF773&width=435&lines=You+know+the+idea%2C+I+know+the+craft...+Let's+bring+it+to+life." alt="Typing SVG" />
+<a href="https://www.instagram.com/lervez5">
+  <img src="https://skillicons.dev/icons?i=instagram" height="55" />
+</a>
+<a href="https://www.linkedin.com/in/enock-nyandigisi-9a351735b">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+</a>
+<a href="https://github.com/lervez5">
+  <img src="https://skillicons.dev/icons?i=github" height="55" />
+</a>
+<a href="https://discord.com/users/yourid">
+  <img src="https://skillicons.dev/icons?i=discord" height="55" />
 </a>
 
-## 🧨 **FINAL TRANSMISSION**
-> _"Code sparks, logs roar — in chaos we deploy."_
+<i>Reach out... if your architecture can survive the conversation.</i>
 
+</div>
+
+---
+
+<div align="center">
+
+## 💊 『 LAB-GRADE ARSENAL 』
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,python,javascript,tailwind,mongodb,postgres,mysql,sqlite,docker,git,linux,aws,postman,vscode" />
+
+<i>Clean builds. Dirty deploys. Zero excuses.</i>
+
+</div>
+
+---
+
+## ⚔️ Core Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lervez5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lervez5&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lervez5&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Development Philosophy
+
+```javascript
+const lervez = {
+  principle: "Build elegant systems that survive ugly realities.",
+  mindset: [
+    "Automate repetitive work",
+    "Scale intelligently",
+    "Write readable code",
+    "Deploy fearlessly"
+  ],
+  status: "Always shipping"
+};
+````
+
+## 🚀 Current Focus
+
+* Building scalable backend architectures
+* Designing resilient distributed systems
+* Automating deployment pipelines
+* Exploring cloud-native technologies
+* Writing code future me won't hate
+
+## ☕ Daily Fuel
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=You+know+the+idea%2C+I+know+the+craft.;Let's+build+something+legendary.;Code.+Deploy.+Scale.+Repeat." alt="Typing SVG" />
+</p>
+
+---
+
+## 🧨 Final Transmission
+
+> *"Code sparks, servers roar, and somewhere a bug starts sweating."*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lervez5&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+```
