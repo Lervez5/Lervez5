@@ -1,8 +1,8 @@
 
 <h1 align="center">⚡ LERVEZ_5 ⚡</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full-Stack+Engineer;Backend+Architect;Cloud+Builder;API+Alchemist;Turning+Coffee+Into+Production+Code" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00F7FF&width=850&lines=Full-Stack+Developer;Backend+Systems+Designer;Cloud+Solutions+Engineer;API+Specialist;Building+Scalable+Software+Solutions" alt="Typing SVG" />
 </p>
 
 > **"Chaos is the compiler. I am the runtime."**
@@ -118,8 +118,8 @@ const lervez = {
 
 ## ☕ Daily Fuel
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=0096C7&center=false&vCenter=true&width=650&lines=You+know+the+idea%2C+I+know+the+craft.;Let's+build+something+legendary.;Code.+Deploy.+Scale.+Repeat." alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=0096C7&width=650&lines=From+Vision+to+Execution;Crafting+Legendary+Projects;Code.+Deploy.+Scale.+Repeat." alt="Typing SVG" />
 </p>
 
 ---
