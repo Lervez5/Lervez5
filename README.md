@@ -104,7 +104,7 @@ const lervez = {
     "Write readable code",
     "Deploy fearlessly"
   ],
-  status: "Always shipping"
+  status: "Always shipping always learning"
 };
 ````
 
