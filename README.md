@@ -2,7 +2,7 @@
 <h1 align="center">⚡ LERVEZ_5 ⚡</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00F7FF&width=850&lines=Full-Stack+Developer;Backend+Systems+Designer;Cloud+Solutions+Engineer;API+Specialist;Building+Scalable+Software+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=00F7FF&width=850&lines=Full-Stack+Developer;Backend+Systems+Designer;Cloud+Solutions+Engineer;API+Specialist;Building+Scalable+Software+Solutions" alt="Typing SVG" />
 </p>
 
 > **"Chaos is the compiler. I am the runtime."**
