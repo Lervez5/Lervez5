@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=00F7FF&width=850&lines=Full-Stack+Developer;Backend+Systems+Designer;Cloud+Solutions+Engineer;API+Specialist;Building+Scalable+Software+Solutions" alt="Typing SVG" />
 </p>
 
-> **"Chaos is the compiler. I am the runtime."**
+> **"Chaos is the compiler. I am the runtime."**_Say my name... LERVEZ_5._
 
 <p align="center">
   <img 
@@ -55,7 +55,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,python,javascript,tailwind,mongodb,postgres,mysql,sqlite,docker,git,linux,aws,postman,vscode" />
 
-<i>Clean builds. Dirty deploys. Zero excuses.</i>
+<i>No half measures. Only full-stack purity.</i>
 
 </div>
 
@@ -97,14 +97,14 @@
 
 ```javascript
 const lervez = {
-  principle: "Build elegant systems that survive ugly realities.",
+  principle: "No half measures in code.",
   mindset: [
-    "Automate repetitive work",
-    "Scale intelligently",
-    "Write readable code",
-    "Deploy fearlessly"
+    "Automate like a cartel",
+    "Scale like an empire",
+    "Write code that cooks clean",
+    "Deploy like Heisenberg"
   ],
-  status: "Always shipping always learning"
+  status: "Always cooking, always scaling"
 };
 ````
 
@@ -126,7 +126,7 @@ const lervez = {
 
 ## 🧨 Final Transmission
 
-> *"Code sparks, servers roar, and somewhere a bug starts sweating."*
+> *"Code sparks, servers roar, and somewhere a bug starts sweating… I am the one who ships."*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lervez5&label=Profile%20Views&color=0e75b6&style=flat" />
