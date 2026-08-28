@@ -39,9 +39,6 @@
 <a href="https://github.com/lervez5">
   <img src="https://skillicons.dev/icons?i=github" height="55" />
 </a>
-<a href="https://discord.com/users/yourid">
-  <img src="https://skillicons.dev/icons?i=discord" height="55" />
-</a>
 
 <i>Reach out... if your architecture can survive the conversation.</i>
 
