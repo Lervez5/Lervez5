@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lervez5&theme=tokyo-night&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph-kappa-ashen.vercel.app/graph?username=Lervez5&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
