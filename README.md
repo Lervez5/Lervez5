@@ -50,7 +50,7 @@
 
 ## 💊 『 LAB-GRADE ARSENAL 』
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,python,javascript,tailwind,mongodb,postgres,mysql,sqlite,docker,git,linux,aws,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,python,javascript,typescript,tailwind,mongodb,postgres,mysql,sqlite,docker,git,linux,aws,postman,vscode" />
 
 <i>No half measures. Only full-stack purity.</i>
 
@@ -63,6 +63,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express" />
