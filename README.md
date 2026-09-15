@@ -50,7 +50,7 @@
 
 ## 💊 『 LAB-GRADE ARSENAL 』
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,python,javascript,typescript,tailwind,mongodb,postgres,mysql,sqlite,docker,git,linux,aws,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi,python,javascript,typescript,tailwind,mongodb,postgres,mysql,sqlite,docker,git,linux,aws,postman,vscode" />
 
 <i>No half measures. Only full-stack purity.</i>
 
