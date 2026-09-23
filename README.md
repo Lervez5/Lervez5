@@ -117,7 +117,7 @@ const lervez = {
 ## ☕ Daily Fuel
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1000&color=00B4D8&width=650&lines=Crafting+Data+into+Insights;Engineering+Reliable+Scalable+Pipelines;Connect.+Collaborate.+Deliver.+Thrive." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00B4D8&width=650&lines=Crafting+Data+into+Insights;Engineering+Reliable+Scalable+Pipelines;Connect.+Collaborate.+Deliver.+Thrive." alt="Typing SVG" />
 </p>
 
 ---
