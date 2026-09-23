@@ -104,7 +104,7 @@ const lervez = {
   ],
   status: "Always cooking, always scaling"
 };
-````
+```
 
 ## 🚀 Current Focus
 
