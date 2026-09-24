@@ -93,16 +93,22 @@
 
 ## 🧠 Development Philosophy
 
-```javascript
-const lervez = {
-  principle: "No half measures in code.",
-  mindset: [
-    "Automate like a cartel",
-    "Scale like an empire",
-    "Write code that cooks clean",
-    "Deploy like Heisenberg"
+```typescript
+interface DeveloperMindset {
+  principle: string;
+  coreDirectives: string[];
+  status: string;
+}
+
+const lervez: DeveloperMindset = {
+  principle: "No half measures in software engineering.",
+  coreDirectives: [
+    "Automate ruthlessly",
+    "Scale horizontally",
+    "Write maintainable, self-documenting code",
+    "Deploy with complete predictability"
   ],
-  status: "Always cooking, always scaling"
+  status: "Optimizing backend systems and building scalable products."
 };
 ```
 
