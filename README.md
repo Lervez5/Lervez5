@@ -118,7 +118,7 @@ const lervez: DeveloperMindset = {
 * Designing resilient distributed systems
 * Automating deployment pipelines
 * Exploring cloud-native technologies
-* Writing code future me won't hate
+* Writing code future me won't detest
 
 ## ☕ Daily Fuel
 
